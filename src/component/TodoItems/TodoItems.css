@@ -1,0 +1,27 @@
+.list-items { 
+    background-color: #fff; 
+    color: #00f; 
+    text-align: center;
+    margin-bottom: 0;
+}
+.list-items span{
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 5px ;
+}
+.list-items .name{
+    width: 60%;
+}
+.list-items .age{
+    width: 25%;
+}
+.list-items .action
+{
+    width: 15%;
+}
+.list-items p { margin: 0; padding: 10px ;}
+.list-items .icon{
+    cursor: pointer;
+    color: #f00;
+}
+.list-items .title {background-color: cyan; color: #fff; font-weight: 700;}
